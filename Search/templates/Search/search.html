@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+{% load index %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Search</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">  <!-- viewport="device screen"  width=device screen width scale =100% -->
+    <!-- Available on getbootstrap CND   -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+      <script
+    src="https://code.jquery.com/jquery-3.2.1.js"
+    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+    crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{% static 'css/search_style.css' %}" type="text/css">
+
+    <script src="//storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons" type="text/css">
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.teal-pink.min.css" type="text/css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+    <link rel="shortcut icon" type="image/png" href="{{STATIC_URL}}/favicon.ico"/>
+
+</head>
+<body>
+
+<div id="loading">
+    <span id="loading_text" >Loading...</span>
+</div>
+
+<div class="container-fluid" id="outer_row_div" >
+    <div class="row" id="row_div" >
+
+
+        <div class="col-md-12" id="search_bar_div_nav" >
+            <form action="{% url 'Search:search' %}" method="POST">
+                {% csrf_token %}
+                {{ form.errors }}
+                {{ form.non_field_errors }}
+                <div id="search_bar_div" class="card card1 col-md-8">
+                    <input type="text" name="search_query" placeholder="Search here" id="search_query_input" class="col-md-11" value="{{ query }}" >
+                    <button type="submit" id="search_button" class="col-md-1"><img src="{% static 'Search/search.png' %}" alt="Search"/></button>
+                </div>
+            </form>
+            <div class="col-md-12" id="tab_div">
+                <button class="tab_button btn {% if sorting == 'naive' %} tab_active {% endif %}" onclick="location.href= `{% url 'Search:search' %}?sorting=naive&search_query_get={{ query }}`" >Naive</button>
+                <button class="tab_button btn {% if sorting == 'page_rank' %} tab_active {% endif %}" onclick="location.href= `{% url 'Search:search' %}?sorting=page_rank&search_query_get={{ query }}`" >Page Rank</button>
+            </div>
+        </div>
+
+        <form action="{% url 'Search:search' %}?search_query_get={{ query }}&page={{ page }}&rel_fed=2" method="POST">
+            {% csrf_token %}
+
+            <div id="result_area" class="col-md-8">
+                <!--<div class="document_link_div col-md-8 card card2">
+                    <h6 class="document_title"><a href="#" class="document_link_a">Page Title</a></h6>
+                    <cite class="document_link_cite">link</cite>
+                    <p class="document_body" >Document Body</p>
+                </div>-->
+
+                {% if x == 0 %}
+                <span> Search something</span>
+                {% else %}
+
+                <p id="results_number" class="col-md-12"> {% if documents_titles|length != 0 %} {% if no_of_pages == 1 %} {% if documents_titles|length == 1 %} 1 result found. {% else %} {{ documents_titles|length }} results found. {% endif %} {% else %} About {{ documents_titles|length }} results. {% endif %} {% else %} No results found. {% endif %} </p>
+
+                <p id="suggestion_div"
+                   class="col-md-12" {% if suggestion_string == query %} hidden {% endif %} > {% if suggestion_string != query %} Did you mean <a href="{% url 'Search:search' %}?search_query_get={{ suggestion_string }}" ><em>{{ suggestion_string }}</em></a>? {% endif %} </p>
+
+                <p id="rel_fed_suggestion_div" class="col-md-12" {% if rel_fed != 2 and p_rel_fed != 1 %} hidden {% endif %} > {% if rel_fed == 2 %} Based on your feedback the query <a href="{% url 'Search:search' %}?search_query_get={{ rel_fed_suggestion_string }}" ><em>{{ rel_fed_suggestion_string }}</em></a> might give more relevant results. {% elif p_rel_fed == 1 %} Based on pseudo relevance feedback the query <a href="{% url 'Search:search' %}?search_query_get={{ rel_fed_suggestion_string }}" ><em>{{ rel_fed_suggestion_string }}</em></a> might give more relevant results. {% endif %}</p>
+
+                {% for document_url,document_title in documents_titles|slice:list_range %}
+                <div class="document_link_div col-md-12 card card2" ondblclick="location.href='{{ document_url }}'" >
+                    <div class="col-md-10" >
+                        <h6 class="document_title"><a href="{{ document_url }}" class="document_link_a">{{ document_title }}</a></h6>
+                        {% if hits == 1 %}
+                        <span class="hub_authority" >Type: {% if doc_hub_score|rank_score:document_url >= doc_authority_score|rank_score:document_url %} Hub {% else %} Authority {% endif %}</span>
+                        {% endif %}
+                        <cite class="document_link_cite">{{ document_url }}</cite>
+                        <cite class="page_rank" ><b class="bold" >Page Rank:</b> {{ page_rank|rank_score:document_url }} </cite>
+                        {% if hits == 1 %}
+                        <span> | </span>
+                        <cite class="hub_score" ><b class="bold" > Hub Score:</b> {{ doc_hub_score|rank_score:document_url }} </cite><span> | </span>
+                        <cite class="authority_score" ><b class="bold" > Authority Score:</b> {{ doc_authority_score|rank_score:document_url }}</cite>
+                        {% endif %}
+                    </div>
+                    {% if rel_fed == 1 %}
+                    <div class="col-md-2 rel_fed_form_div" >
+                        <div id="rel_radio" class="rel_ir" >
+                            <span class="rel_text" >Relevant</span>
+                            <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect ir_relevant" for="relevant_{{ document_url }}">
+                                <input type="radio" id="relevant_{{ document_url }}" class="mdl-radio__button" name="rel_fed_form_{{ document_url }}" value="1">
+                            </label>
+                        </div>
+                        <div id="irrel_radio" class="rel_ir" >
+                            <span class="rel_text" >Irrelevant</span>
+                            <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect ir_relevant" for="irrelevant_{{ document_url }}">
+                                <input type="radio" id="irrelevant_{{ document_url }}" class="mdl-radio__button" name="rel_fed_form_{{ document_url }}" value="0">
+                            </label>
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+                {% endfor %}
+                {% endif %}
+
+            </div>
+
+            {% if sorting != 'page_rank' %}
+
+            <div id="tools_area" class="col-md-3 card card2">
+                <span id="tools_area_title" >
+                    Tools
+                </span>
+                <div class="flip-container col-md-6" id="flip-container" >
+                    <div class="flipper">
+                        <div id="relevance_feedback_div" class="front" onclick=" {% if documents_titles|length != 0 %} location.href= `{% url 'Search:search' %}?rel_fed=1&page={{ page }}&search_query_get={{ query }}` {% else %} location.href= `{% url 'Search:search' %}` {% endif %}">
+                            <i id="rel_fed_icon" class="material-icons teal900 md-48">assignment</i>
+                            <span class="icon_desc" >Relevance Feedback</span>
+                        </div>
+
+                        <div id="rel_fed_submit" class="back" >
+                            <button class="btn buttn" type="submit">Submit</button>
+                            <button class="btn buttn" type="button" onclick="location.href=`{% url 'Search:search' %}?page=1&search_query_get={{ query }}`">Cancel</button>
+                        </div>
+
+                    </div>
+                </div>
+                <div id="pseudo_relevance_feedback_div" class="col-md-6" onclick="{% if documents_titles|length != 0 %} location.href= `{% url 'Search:search' %}?p_rel_fed=1&page={{ page }}&search_query_get={{ query }}` {% else %} location.href= `{% url 'Search:search' %}` {% endif %}">
+                    <i id="pseudo_rel_fed_icon" class="material-icons teal900 md-48">assignment_turned_in</i>
+                    <span class="icon_desc" >P - Relevance Feedback</span>
+                </div>
+                <div id="topic_modelling_div" class="col-md-6" onclick="{% if documents_titles|length != 0 %} location.href= `{% url 'Search:search' %}?hits=1&page={{ page }}&search_query_get={{ query }}` {% else %} location.href= `{% url 'Search:search' %}` {% endif %}">
+                    <i id="topic_modelling_icon" class="material-icons teal900 md-48">flare</i>
+                    <span class="icon_desc" >HITS Analysis</span>
+                </div>
+                <div id="clustering_div" class="col-md-6" onclick="location.href= `{% url 'Search:cluster' %}`">
+                    <i id="clustering_icon" class="material-icons teal900 md-48">group_work</i>
+                    <span class="icon_desc">Clusters</span>
+                </div>
+            </div>
+
+            {% endif %}
+
+            {% if recommended_cluster|length != 0 %}
+            <div id="recommended_cluster_area" class="col-md-3 card card2">
+                <span id="cluster_area_title" >You may find these pages useful.</span><br>
+                {% for cluster in recommended_cluster %}
+                <div class="col-md-12 card card1" id="cluster">
+                    <div class="cluster_title">
+
+                        <span>Cluster {{cluster|inc:1}}({{recommended_cluster_name}})</span>
+                        <span class="cluster_pages" ><span class="pages" >Page(s): {{recommended_cluster|list_index:cluster|length}}</span></span>
+                    </div>
+
+                    <div class="cluster_urls" >
+                        <ul>
+                            {% for j in recommended_cluster|list_index:cluster %}
+                            <li><span class="cluster_url" ><a class="cluster_url_a" href="{{ j.0 }}" >{{ j.1 }}</a></span><br></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            {% endif %}
+
+        </form>
+
+        <div id="pager_div" class="col-md-12">
+            {% if rel_fed == 0 %}
+
+            {% for i in pager_length %}
+            <a class="pager" href="{% url 'Search:search' %}?page={{ i }}&search_query_get={{ query }}&sorting={{ sorting }}" >{{ i }}</a>
+            {% endfor %}
+
+            {% endif %}
+        </div>
+
+
+        <div id="bottom_bar" class="col-md-12 footer">
+
+
+
+        </div>
+
+    </div>
+</div>
+
+{% if rel_fed == 1 %}
+<script>
+    $(document).ready(function() {
+    $("#flip-container").toggleClass("flip");
+    });
+</script>
+{% endif %}
+
+<script>
+    function onReady(callback) {
+        var intervalID = window.setInterval(checkReady, 10);
+        console.log('asfdsjafbas');
+        function checkReady() {
+            if (document.getElementsByTagName('body')[0] !== undefined) {
+                window.clearInterval(intervalID);
+                callback.call(this);
+            }
+        }
+    }
+
+    function show(id, value) {
+        document.getElementById(id).style.display = value ? 'block' : 'none';
+    }
+
+    onReady(function () {
+        show('outer_row_div', true);
+        show('loading', false);
+    });
+</script>
+
+</body>
+</html>

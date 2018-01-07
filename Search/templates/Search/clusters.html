@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+{% load staticfiles %}
+{% load index %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Clusters</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">  <!-- viewport="device screen"  width=device screen width scale =100% -->
+    <!-- Available on getbootstrap CND   -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+      <script
+    src="https://code.jquery.com/jquery-3.2.1.js"
+    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
+    crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="{% static 'css/cluster_style.css' %}" type="text/css">
+
+    <script src="//storage.googleapis.com/code.getmdl.io/1.0.6/material.min.js"></script>
+
+    <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons" type="text/css">
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.0.6/material.teal-pink.min.css" type="text/css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,400,500,700" type="text/css">
+    <link rel="shortcut icon" type="image/png" href="{{STATIC_URL}}/favicon.ico"/>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+</head>
+<body>
+
+<div class="container-fluid" id="outer_row_div" >
+    <div class="row" id="row_div" >
+        <div class="col-md-12" id="cluster_div_nav">
+            <span id="page_title" >Clusters</span>
+            <i id="back_icon" class="material-icons md-36" onclick="location.href = `{% url 'Search:search' %}`" >arrow_back</i>
+        </div>
+
+        <div class="col-md-12" id="cluster_area">
+            {% for cluster in clusters %}
+            <div class="col-md-3 card card1 cluster " id="cluster_{{ i }}">
+                <div class="cluster_title">
+                    <span>Cluster {{ cluster|inc:1 }}({{ cluster_names|list_index:cluster }})</span>
+                    <span class="cluster_pages"><span class="pages" >Page(s): {{ clusters|list_index:cluster|length }}</span></span>
+                </div>
+
+                <div class="cluster_urls" >
+                    <ul>
+                        {% for j in clusters|list_index:cluster %}
+                        <li><span class="cluster_url" ><a class="cluster_url_a" href="{{ j.0 }}" >{{ j.1 }}</a></span><br></li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+
+            <!--{% if cluster == 2 or cluster == 5 or cluster == 8 %}
+            <div class="clearfix" ></div>
+            {% endif %}-->
+            {% endfor %}
+        </div>
+
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+      var container = document.querySelector('#cluster_area');
+      var msnry = new Masonry(container, {
+                    itemSelector: '.cluster'
+                  });
+    });
+</script>
+</body>
+</html>

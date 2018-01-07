@@ -1,0 +1,1002 @@
+Titles on [2018/01/05 12:43:43]{
+url Titles [size:997] {
+{'https://en.wikipedia.org/wiki/Main_Page': 'Wikipedia, the free encyclopedia'}
+{'https://en.wikipedia.org/wiki/Main_Page': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia': 'Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Free_content': 'Free content - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Free_content': '\\n'}
+{'https://en.wikipedia.org/wiki/Encyclopedia': 'Encyclopedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Encyclopedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Introduction': 'Wikipedia:Introduction - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Introduction': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:Statistics': 'Statistics - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:Statistics': '\\n'}
+{'https://en.wikipedia.org/wiki/English_language': 'English language - Wikipedia'}
+{'https://en.wikipedia.org/wiki/English_language': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Arts': 'Portal:Arts - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Arts': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Biography': 'Portal:Biography - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Biography': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Geography': 'Portal:Geography - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Geography': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:History': 'Portal:History - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:History': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Mathematics': 'Portal:Mathematics - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Mathematics': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Science': 'Portal:Science - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Science': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Society': 'Portal:Society - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Society': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Technology': 'Portal:Technology - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Technology': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Contents/Portals': 'Portal:Contents/Portals - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Contents/Portals': '\\n'}
+{'https://en.wikipedia.org/wiki/Holy_Wood_(In_the_Shadow_of_the_Valley_of_Death)': 'Holy Wood (In the Shadow of the Valley of Death) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Holy_Wood_(In_the_Shadow_of_the_Valley_of_Death)': '\\n'}
+{'https://en.wikipedia.org/wiki/Studio_album': 'Album - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Studio_album': '\\n'}
+{'https://en.wikipedia.org/wiki/Rock_music': 'Rock music - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Rock_music': '\\n'}
+{'https://en.wikipedia.org/wiki/Marilyn_Manson_(band)': 'Marilyn Manson (band) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Marilyn_Manson_(band)': '\\n'}
+{'https://en.wikipedia.org/wiki/Nothing_Records': 'Nothing Records - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Nothing_Records': '\\n'}
+{'https://en.wikipedia.org/wiki/Interscope_Records': 'Interscope Records - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Interscope_Records': '\\n'}
+{'https://en.wikipedia.org/wiki/Rock_opera': 'Rock opera - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Rock_opera': '\\n'}
+{'https://en.wikipedia.org/wiki/Concept_album': 'Concept album - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Concept_album': '\\n'}
+{'https://en.wikipedia.org/wiki/Triptych': 'Triptych - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Triptych': '\\n'}
+{'https://en.wikipedia.org/wiki/Antichrist_Superstar': 'Antichrist Superstar - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Antichrist_Superstar': '\\n'}
+{'https://en.wikipedia.org/wiki/Industrial_metal': 'Industrial metal - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Industrial_metal': '\\n'}
+{'https://en.wikipedia.org/wiki/Kerrang!': 'Kerrang! - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Kerrang!': '\\n'}
+{'https://en.wikipedia.org/wiki/Billboard_200': 'Billboard 200 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Billboard_200': '\\n'}
+{'https://en.wikipedia.org/wiki/Record_chart': 'Record chart - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Record_chart': '\\n'}
+{'https://en.wikipedia.org/wiki/Disposable_Teens': 'Disposable Teens - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Disposable_Teens': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Fight_Song_(Marilyn_Manson_song)': 'The Fight Song (Marilyn Manson song) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Fight_Song_(Marilyn_Manson_song)': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Nobodies_(song)': 'The Nobodies (song) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Nobodies_(song)': '\\n'}
+{'https://en.wikipedia.org/wiki/Guns,_God_and_Government_Tour': 'Guns, God and Government Tour - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Guns,_God_and_Government_Tour': '\\n'}
+{'https://en.wikipedia.org/wiki/Lilias_Armstrong': 'Lilias Armstrong - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Lilias_Armstrong': '\\n'}
+{'https://en.wikipedia.org/wiki/Red-backed_fairywren': 'Red-backed fairywren - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Red-backed_fairywren': '\\n'}
+{'https://en.wikipedia.org/wiki/Lawrence_Wetherby': 'Lawrence Wetherby - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Lawrence_Wetherby': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/January_2018': "Wikipedia:Today\\'s featured article/January 2018 - Wikipedia"}
+{'https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_article/January_2018': '\\n'}
+{'https://lists.wikimedia.org/mailman/listinfo/daily-article-l': 'Daily article mailing list, from Wikipedia'}
+{'https://lists.wikimedia.org/mailman/listinfo/daily-article-l': '\\r\\n\\r\\n '}
+{'https://lists.wikimedia.org/mailman/listinfo/daily-article-l': '\\r\\n\\r\\n '}
+{'https://en.wikipedia.org/wiki/Wikipedia:Featured_articles': 'Wikipedia:Featured articles - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Featured_articles': '\\n'}
+{'https://en.wikipedia.org/wiki/Edward_Dodding': 'Edward Dodding - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Edward_Dodding': '\\n'}
+{'https://en.wikipedia.org/wiki/Autopsy': 'Autopsy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Autopsy': '\\n'}
+{'https://en.wikipedia.org/wiki/Inuit': 'Inuit - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Inuit': '\\n'}
+{'https://en.wikipedia.org/wiki/Edward_Teller': 'Edward Teller - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Edward_Teller': '\\n'}
+{'https://en.wikipedia.org/wiki/Brilliant_Pebbles': 'Brilliant Pebbles - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Brilliant_Pebbles': '\\n'}
+{'https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile': 'Intercontinental ballistic missile - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Intercontinental_ballistic_missile': '\\n'}
+{'https://en.wikipedia.org/wiki/Remy_Siemsen': 'Remy Siemsen - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Remy_Siemsen': '\\n'}
+{'https://en.wikipedia.org/wiki/Sydney_FC_(W-League)': 'Sydney FC (W-League) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Sydney_FC_(W-League)': '\\n'}
+{'https://en.wikipedia.org/wiki/2016%E2%80%9317_W-League': '2016\\xe2\\x80\\x9317 W-League - Wikipedia'}
+{'https://en.wikipedia.org/wiki/2016%E2%80%9317_W-League': '\\n'}
+{'https://en.wikipedia.org/wiki/Chanbria': 'Chanbria - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Chanbria': '\\n'}
+{'https://en.wikipedia.org/wiki/Sinology': 'Sinology - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Sinology': '\\n'}
+{'https://en.wikipedia.org/wiki/Wolfgang_Franke': 'Wolfgang Franke - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wolfgang_Franke': '\\n'}
+{'https://en.wikipedia.org/wiki/Riverton_Lock': 'Riverton Lock - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Riverton_Lock': '\\n'}
+{'https://en.wikipedia.org/wiki/Boat_lift': 'Boat lift - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Boat_lift': '\\n'}
+{'https://en.wikipedia.org/wiki/Azazet_Habtezghi_Kidane': 'Azazet Habtezghi Kidane - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Azazet_Habtezghi_Kidane': '\\n'}
+{'https://en.wikipedia.org/wiki/Sinai_Peninsula': 'Sinai Peninsula - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Sinai_Peninsula': '\\n'}
+{'https://en.wikipedia.org/wiki/Jolly_Roger_Records': 'Jolly Roger Records - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Jolly_Roger_Records': '\\n'}
+{'https://en.wikipedia.org/wiki/Bootleg_recording': 'Bootleg recording - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Bootleg_recording': '\\n'}
+{'https://en.wikipedia.org/wiki/RCA_Records': 'RCA Records - Wikipedia'}
+{'https://en.wikipedia.org/wiki/RCA_Records': '\\n'}
+{'https://en.wikipedia.org/wiki/Phonograph_record': 'Phonograph record - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Phonograph_record': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Recent_additions': 'Wikipedia:Recent additions - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Recent_additions': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Your_first_article': 'Wikipedia:Your first article - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Your_first_article': '\\n'}
+{'https://en.wikipedia.org/wiki/Template_talk:Did_you_know': 'Template talk:Did you know - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Template_talk:Did_you_know': '\\n'}
+{'https://en.wikipedia.org/wiki/2018_Kroonstad_train_crash': '2018 Kroonstad train crash - Wikipedia'}
+{'https://en.wikipedia.org/wiki/2018_Kroonstad_train_crash': '\\n'}
+{'https://en.wikipedia.org/wiki/Kroonstad': 'Kroonstad - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Kroonstad': '\\n'}
+{'https://en.wikipedia.org/wiki/Darts': 'Darts - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Darts': '\\n'}
+{'https://en.wikipedia.org/wiki/Rob_Cross_(darts_player)': 'Rob Cross (darts player) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Rob_Cross_(darts_player)': '\\n'}
+{'https://en.wikipedia.org/wiki/2018_PDC_World_Darts_Championship': '2018 PDC World Darts Championship - Wikipedia'}
+{'https://en.wikipedia.org/wiki/2018_PDC_World_Darts_Championship': '\\n'}
+{'https://en.wikipedia.org/wiki/George_Weah': 'George Weah - Wikipedia'}
+{'https://en.wikipedia.org/wiki/George_Weah': '\\n'}
+{'https://en.wikipedia.org/wiki/Liberian_general_election,_2017': 'Liberian general election, 2017 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Liberian_general_election,_2017': '\\n'}
+{'https://en.wikipedia.org/wiki/President_of_Liberia': 'President of Liberia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/President_of_Liberia': '\\n'}
+{'https://en.wikipedia.org/wiki/Pedro_Pablo_Kuczynski': 'Pedro Pablo Kuczynski - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Pedro_Pablo_Kuczynski': '\\n'}
+{'https://en.wikipedia.org/wiki/Pardon_of_Alberto_Fujimori': 'Pardon of Alberto Fujimori - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Pardon_of_Alberto_Fujimori': '\\n'}
+{'https://en.wikipedia.org/wiki/Alberto_Fujimori': 'Alberto Fujimori - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Alberto_Fujimori': '\\n'}
+{'https://en.wikipedia.org/wiki/Typhoon_Tembin_(2017)': 'Typhoon Tembin (2017) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Typhoon_Tembin_(2017)': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Current_events': 'Portal:Current events - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Current_events': '\\n'}
+{'https://en.wikipedia.org/wiki/2017%E2%80%9318_Iranian_protests': '2017\\xe2\\x80\\x9318 Iranian protests - Wikipedia'}
+{'https://en.wikipedia.org/wiki/2017%E2%80%9318_Iranian_protests': '\\n'}
+{'https://en.wikipedia.org/wiki/Deaths_in_2018': 'Deaths in 2018 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Deaths_in_2018': '\\n'}
+{'https://en.wikipedia.org/wiki/Rick_Hall': 'Rick Hall - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Rick_Hall': '\\n'}
+{'https://en.wikipedia.org/wiki/Thomas_S._Monson': 'Thomas S. Monson - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Thomas_S._Monson': '\\n'}
+{'https://en.wikipedia.org/wiki/Ali_Akbar_Moinfar': 'Ali Akbar Moinfar - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Ali_Akbar_Moinfar': '\\n'}
+{'https://en.wikipedia.org/wiki/Manuel_Olivencia': 'Manuel Olivencia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Manuel_Olivencia': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates': 'Wikipedia:In the news/Candidates - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:In_the_news/Candidates': '\\n'}
+{'https://en.wikipedia.org/wiki/January_5': 'January 5 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/January_5': '\\n'}
+{'https://en.wikipedia.org/wiki/1675': '1675 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/1675': '\\n'}
+{'https://en.wikipedia.org/wiki/Franco-Dutch_War': 'Franco-Dutch War - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Franco-Dutch_War': '\\n'}
+{'https://en.wikipedia.org/wiki/French_Army': 'French Army - Wikipedia'}
+{'https://en.wikipedia.org/wiki/French_Army': '\\n'}
+{'https://en.wikipedia.org/wiki/Battle_of_Turckheim': 'Battle of Turckheim - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Battle_of_Turckheim': '\\n'}
+{'https://en.wikipedia.org/wiki/Habsburg_Monarchy': 'Habsburg Monarchy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Habsburg_Monarchy': '\\n'}
+{'https://en.wikipedia.org/wiki/Brandenburg-Prussia': 'Brandenburg-Prussia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Brandenburg-Prussia': '\\n'}
+{'https://en.wikipedia.org/wiki/1925': '1925 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/1925': '\\n'}
+{'https://en.wikipedia.org/wiki/Nellie_Tayloe_Ross': 'Nellie Tayloe Ross - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Nellie_Tayloe_Ross': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_Governors_of_Wyoming': 'List of Governors of Wyoming - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_Governors_of_Wyoming': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_female_governors_in_the_United_States': 'List of female governors in the United States - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_female_governors_in_the_United_States': '\\n'}
+{'https://en.wikipedia.org/wiki/1941': '1941 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/1941': '\\n'}
+{'https://en.wikipedia.org/wiki/World_War_II': 'World War II - Wikipedia'}
+{'https://en.wikipedia.org/wiki/World_War_II': '\\n'}
+{'https://en.wikipedia.org/wiki/Battle_of_Bardia': 'Battle of Bardia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Battle_of_Bardia': '\\n'}
+{'https://en.wikipedia.org/wiki/Bardia': 'Bardia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Bardia': '\\n'}
+{'https://en.wikipedia.org/wiki/Australian_Army': 'Australian Army - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Australian_Army': '\\n'}
+{'https://en.wikipedia.org/wiki/1968': '1968 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/1968': '\\n'}
+{'https://en.wikipedia.org/wiki/Alexander_Dub%C4%8Dek': 'Alexander Dub\\xc4\\x8dek - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Alexander_Dub%C4%8Dek': '\\n'}
+{'https://en.wikipedia.org/wiki/Czechoslovakia': 'Czechoslovakia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Czechoslovakia': '\\n'}
+{'https://en.wikipedia.org/wiki/Prague_Spring': 'Prague Spring - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Prague_Spring': '\\n'}
+{'https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia': 'Warsaw Pact invasion of Czechoslovakia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Warsaw_Pact_invasion_of_Czechoslovakia': '\\n'}
+{'https://en.wikipedia.org/wiki/Warsaw_Pact': 'Warsaw Pact - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Warsaw_Pact': '\\n'}
+{'https://en.wikipedia.org/wiki/2008': '2008 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/2008': '\\n'}
+{'https://en.wikipedia.org/wiki/Mikheil_Saakashvili': 'Mikheil Saakashvili - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Mikheil_Saakashvili': '\\n'}
+{'https://en.wikipedia.org/wiki/Georgian_presidential_election,_2008': 'Georgian presidential election, 2008 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Georgian_presidential_election,_2008': '\\n'}
+{'https://en.wikipedia.org/wiki/President_of_Georgia': 'President of Georgia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/President_of_Georgia': '\\n'}
+{'https://en.wikipedia.org/wiki/Al-Mu%27tasim': "Al-Mu\\'tasim - Wikipedia"}
+{'https://en.wikipedia.org/wiki/Al-Mu%27tasim': '\\n'}
+{'https://en.wikipedia.org/wiki/Joseph_Erlanger': 'Joseph Erlanger - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Joseph_Erlanger': '\\n'}
+{'https://en.wikipedia.org/wiki/Deepika_Padukone': 'Deepika Padukone - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Deepika_Padukone': '\\n'}
+{'https://en.wikipedia.org/wiki/January_4': 'January 4 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/January_4': '\\n'}
+{'https://en.wikipedia.org/wiki/January_6': 'January 6 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/January_6': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/January': 'Wikipedia:Selected anniversaries/January - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Selected_anniversaries/January': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_historical_anniversaries': 'List of historical anniversaries - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_historical_anniversaries': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_Australia_Test_cricket_records': 'List of Australia Test cricket records - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_Australia_Test_cricket_records': '\\n'}
+{'https://en.wikipedia.org/wiki/History_of_Test_cricket_from_1877_to_1883#The_first_Test': 'History of Test cricket from 1877 to 1883 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/History_of_Test_cricket_from_1877_to_1883#The_first_Test': '\\n'}
+{'https://en.wikipedia.org/wiki/Australia_national_cricket_team': 'Australia national cricket team - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Australia_national_cricket_team': '\\n'}
+{'https://en.wikipedia.org/wiki/England_cricket_team': 'England cricket team - Wikipedia'}
+{'https://en.wikipedia.org/wiki/England_cricket_team': '\\n'}
+{'https://en.wikipedia.org/wiki/English_cricket_team_in_Australia_and_New_Zealand_in_1876%E2%80%9377': 'English cricket team in Australia and New Zealand in 1876\\xe2\\x80\\x9377 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/English_cricket_team_in_Australia_and_New_Zealand_in_1876%E2%80%9377': '\\n'}
+{'https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground': 'Melbourne Cricket Ground - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&action=edit': 'View source for Main Page - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&action=edit': '\\n'}
+{'https://en.wikipedia.org/wiki/South_Africa_national_cricket_team': 'South Africa national cricket team - Wikipedia'}
+{'https://en.wikipedia.org/wiki/South_Africa_national_cricket_team': '\\n'}
+{'https://en.wikipedia.org/wiki/Batting_order_(cricket)#Top_order': 'Batting order (cricket) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Batting_order_(cricket)#Top_order': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains': 'List of Australia national cricket captains - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_Australia_national_cricket_captains': '\\n'}
+{'https://en.wikipedia.org/wiki/Don_Bradman': 'Don Bradman - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Don_Bradman': '\\n'}
+{'https://en.wikipedia.org/wiki/Batting_(cricket)': 'Batting (cricket) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Batting_(cricket)': '\\n'}
+{'https://en.wikipedia.org/wiki/Batting_average': 'Batting average - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Batting_average': '\\n'}
+{'https://en.wikipedia.org/wiki/Century_(cricket)': 'Century (cricket) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Century_(cricket)': '\\n'}
+{'https://en.wikipedia.org/wiki/Run_(cricket)': 'Run (cricket) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Run_(cricket)': '\\n'}
+{'https://en.wikipedia.org/wiki/Australian_cricket_team_in_England_in_1930': 'Australian cricket team in England in 1930 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Australian_cricket_team_in_England_in_1930': '\\n'}
+{'https://en.wikipedia.org/wiki/Shane_Warne': 'Shane Warne - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Shane_Warne': '\\n'}
+{'https://en.wikipedia.org/wiki/Bowling_(cricket)': 'Bowling (cricket) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Bowling_(cricket)': '\\n'}
+{'https://en.wikipedia.org/wiki/Glenn_McGrath': 'Glenn McGrath - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Glenn_McGrath': '\\n'}
+{'https://en.wikipedia.org/wiki/Fast_bowling': 'Fast bowling - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Fast_bowling': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_Indian_naval_air_squadrons': 'List of Indian naval air squadrons - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_Indian_naval_air_squadrons': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_American_Horror_Story': 'List of awards and nominations received by American Horror Story - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_awards_and_nominations_received_by_American_Horror_Story': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_ecclesiastical_works_by_E._G._Paley': 'List of ecclesiastical works by E. G. Paley - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_ecclesiastical_works_by_E._G._Paley': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_list/January_2018': "Wikipedia:Today\\'s featured list/January 2018 - Wikipedia"}
+{'https://en.wikipedia.org/wiki/Wikipedia:Today%27s_featured_list/January_2018': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Featured_lists': 'Wikipedia:Featured lists - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Featured_lists': '\\n'}
+{'https://en.wikipedia.org/wiki/Atelopus_limosus': 'Atelopus limosus - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Atelopus_limosus': '\\n'}
+{'https://en.wikipedia.org/wiki/Toad': 'Toad - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Toad': '\\n'}
+{'https://en.wikipedia.org/wiki/True_toad': 'True toad - Wikipedia'}
+{'https://en.wikipedia.org/wiki/True_toad': '\\n'}
+{'https://en.wikipedia.org/wiki/Chagres_River': 'Chagres River - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Chagres_River': '\\n'}
+{'https://en.wikipedia.org/wiki/Template:POTD/2018-01-04': 'Template:POTD/2018-01-04 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Template:POTD/2018-01-04': '\\n'}
+{'https://en.wikipedia.org/wiki/Template:POTD/2018-01-03': 'Template:POTD/2018-01-03 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Template:POTD/2018-01-03': '\\n'}
+{'https://en.wikipedia.org/wiki/Template:POTD/2018-01-02': 'Template:POTD/2018-01-02 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Template:POTD/2018-01-02': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/January_2018': 'Wikipedia:Picture of the day/January 2018 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day/January_2018': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures': 'Wikipedia:Featured pictures - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Featured_pictures': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Community_portal': 'Wikipedia:Community portal - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Community_portal': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Help_desk': 'Wikipedia:Help desk - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Help_desk': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Local_Embassy': 'Wikipedia:Local Embassy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Local_Embassy': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Reference_desk': 'Wikipedia:Reference desk - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Reference_desk': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:News': 'Wikipedia:News - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:News': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Village_pump': 'Wikipedia:Village pump - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Village_pump': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikimedia_Foundation': 'Wikimedia Foundation - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikimedia_Foundation': '\\n'}
+{'https://wikimediafoundation.org/wiki/Our_projects': 'Our projects - Wikimedia Foundation'}
+{'https://wikimediafoundation.org/wiki/Our_projects': '\\n'}
+{'https://commons.wikimedia.org/wiki/': 'Wikimedia Commons'}
+{'https://commons.wikimedia.org/wiki/': '\\n'}
+{'https://commons.wikimedia.org/': 'Wikimedia Commons'}
+{'https://commons.wikimedia.org/': '\\n'}
+{'https://www.mediawiki.org/wiki/': 'MediaWiki'}
+{'https://www.mediawiki.org/wiki/': '\\n'}
+{'https://mediawiki.org/': 'MediaWiki'}
+{'https://mediawiki.org/': '\\n'}
+{'https://meta.wikimedia.org/wiki/': 'Meta, a Wikimedia project coordination wiki'}
+{'https://meta.wikimedia.org/wiki/': '\\n'}
+{'https://meta.wikimedia.org/': 'Meta, a Wikimedia project coordination wiki'}
+{'https://meta.wikimedia.org/': '\\n'}
+{'https://en.wikibooks.org/wiki/': 'Wikibooks'}
+{'https://en.wikibooks.org/wiki/': '\\n'}
+{'https://en.wikibooks.org/': 'Wikibooks'}
+{'https://en.wikibooks.org/': '\\n'}
+{'https://www.wikidata.org/wiki/': 'Wikidata'}
+{'https://www.wikidata.org/wiki/': '\\n'}
+{'https://www.wikidata.org/': 'Wikidata'}
+{'https://www.wikidata.org/': '\\n'}
+{'https://en.wikinews.org/wiki/': 'Wikinews, the free news source'}
+{'https://en.wikinews.org/wiki/': '\\n'}
+{'https://en.wikinews.org/': 'Wikinews, the free news source'}
+{'https://en.wikinews.org/': '\\n'}
+{'https://en.wikiquote.org/wiki/': 'Wikiquote'}
+{'https://en.wikiquote.org/wiki/': '\\n'}
+{'https://en.wikiquote.org/': 'Wikiquote'}
+{'https://en.wikiquote.org/': '\\n'}
+{'https://en.wikisource.org/wiki/': 'Wikisource, the free library'}
+{'https://en.wikisource.org/wiki/': '\\n'}
+{'https://en.wikisource.org/': 'Wikisource, the free library'}
+{'https://en.wikisource.org/': '\\n'}
+{'https://species.wikimedia.org/wiki/': 'Wikispecies, free species directory'}
+{'https://species.wikimedia.org/wiki/': '\\n'}
+{'https://species.wikimedia.org/': 'Wikispecies, free species directory'}
+{'https://species.wikimedia.org/': '\\n'}
+{'https://en.wikiversity.org/wiki/': 'Wikiversity'}
+{'https://en.wikiversity.org/wiki/': '\\n'}
+{'https://en.wikiversity.org/': 'Wikiversity'}
+{'https://en.wikiversity.org/': '\\n'}
+{'https://en.wikivoyage.org/wiki/': 'Wikivoyage \\xe2\\x80\\x93 The FREE worldwide travel guide that anyone can edit'}
+{'https://en.wikivoyage.org/wiki/': '\\n'}
+{'https://en.wikivoyage.org/': 'Wikivoyage \\xe2\\x80\\x93 The FREE worldwide travel guide that anyone can edit'}
+{'https://en.wikivoyage.org/': '\\n'}
+{'https://en.wiktionary.org/wiki/': 'Wiktionary, the free dictionary'}
+{'https://en.wiktionary.org/wiki/': '\\n'}
+{'https://en.wiktionary.org/': 'Wiktionary, the free dictionary'}
+{'https://en.wiktionary.org/': '\\n'}
+{'https://de.wikipedia.org/wiki/': 'Wikipedia \\xe2\\x80\\x93 Die freie Enzyklop\\xc3\\xa4die'}
+{'https://de.wikipedia.org/wiki/': '\\n'}
+{'https://es.wikipedia.org/wiki/': 'Wikipedia, la enciclopedia libre'}
+{'https://es.wikipedia.org/wiki/': '\\n'}
+{'https://fr.wikipedia.org/wiki/': "Wikip\\xc3\\xa9dia, l\\'encyclop\\xc3\\xa9die libre"}
+{'https://fr.wikipedia.org/wiki/': '\\n'}
+{'https://it.wikipedia.org/wiki/': "Wikipedia, l\\'enciclopedia libera"}
+{'https://it.wikipedia.org/wiki/': '\\n'}
+{'https://nl.wikipedia.org/wiki/': 'Wikipedia, de vrije encyclopedie'}
+{'https://nl.wikipedia.org/wiki/': '\\n'}
+{'https://ja.wikipedia.org/wiki/': 'Wikipedia'}
+{'https://ja.wikipedia.org/wiki/': '\\n'}
+{'https://pl.wikipedia.org/wiki/': 'Wikipedia, wolna encyklopedia'}
+{'https://pl.wikipedia.org/wiki/': '\\n'}
+{'https://ru.wikipedia.org/wiki/': '\\xd0\\x92\\xd0\\xb8\\xd0\\xba\\xd0\\xb8\\xd0\\xbf\\xd0\\xb5\\xd0\\xb4\\xd0\\xb8\\xd1\\x8f\\xc2\\xa0\\xe2\\x80\\x94 \\xd1\\x81\\xd0\\xb2\\xd0\\xbe\\xd0\\xb1\\xd0\\xbe\\xd0\\xb4\\xd0\\xbd\\xd0\\xb0\\xd1\\x8f \\xd1\\x8d\\xd0\\xbd\\xd1\\x86\\xd0\\xb8\\xd0\\xba\\xd0\\xbb\\xd0\\xbe\\xd0\\xbf\\xd0\\xb5\\xd0\\xb4\\xd0\\xb8\\xd1\\x8f'}
+{'https://ru.wikipedia.org/wiki/': '\\n'}
+{'https://sv.wikipedia.org/wiki/': 'Wikipedia, den fria encyklopedin'}
+{'https://sv.wikipedia.org/wiki/': '\\n'}
+{'https://vi.wikipedia.org/wiki/': 'Wikipedia, b\\xc3\\xa1ch khoa to\\xc3\\xa0n th\\xc6\\xb0 m\\xe1\\xbb\\x9f'}
+{'https://vi.wikipedia.org/wiki/': '\\n'}
+{'https://ar.wikipedia.org/wiki/': '\\xd9\\x88\\xd9\\x8a\\xd9\\x83\\xd9\\x8a\\xd8\\xa8\\xd9\\x8a\\xd8\\xaf\\xd9\\x8a\\xd8\\xa7\\xd8\\x8c \\xd8\\xa7\\xd9\\x84\\xd9\\x85\\xd9\\x88\\xd8\\xb3\\xd9\\x88\\xd8\\xb9\\xd8\\xa9 \\xd8\\xa7\\xd9\\x84\\xd8\\xad\\xd8\\xb1\\xd8\\xa9'}
+{'https://ar.wikipedia.org/wiki/': '\\n'}
+{'https://id.wikipedia.org/wiki/': 'Wikipedia bahasa Indonesia, ensiklopedia bebas'}
+{'https://id.wikipedia.org/wiki/': '\\n'}
+{'https://ms.wikipedia.org/wiki/': 'Wikipedia, ensiklopedia bebas'}
+{'https://ms.wikipedia.org/wiki/': '\\n'}
+{'https://ca.wikipedia.org/wiki/': 'Viquip\\xc3\\xa8dia'}
+{'https://ca.wikipedia.org/wiki/': '\\n'}
+{'https://cs.wikipedia.org/wiki/': 'Wikipedie, otev\\xc5\\x99en\\xc3\\xa1 encyklopedie'}
+{'https://cs.wikipedia.org/wiki/': '\\n'}
+{'https://eu.wikipedia.org/wiki/': 'Wikipedia'}
+{'https://eu.wikipedia.org/wiki/': '\\n'}
+{'https://fa.wikipedia.org/wiki/': '\\xd9\\x88\\xdb\\x8c\\xda\\xa9\\xdb\\x8c\\xe2\\x80\\x8c\\xd9\\xbe\\xd8\\xaf\\xdb\\x8c\\xd8\\xa7\\xd8\\x8c \\xd8\\xaf\\xd8\\xa7\\xd9\\x86\\xd8\\xb4\\xd9\\x86\\xd8\\xa7\\xd9\\x85\\xd9\\x87\\xd9\\x94 \\xd8\\xa2\\xd8\\xb2\\xd8\\xa7\\xd8\\xaf'}
+{'https://fa.wikipedia.org/wiki/': '\\n'}
+{'https://ko.wikipedia.org/wiki/': '\\xec\\x9c\\x84\\xed\\x82\\xa4\\xeb\\xb0\\xb1\\xea\\xb3\\xbc, \\xec\\x9a\\xb0\\xeb\\xa6\\xac \\xeb\\xaa\\xa8\\xeb\\x91\\x90\\xec\\x9d\\x98 \\xeb\\xb0\\xb1\\xea\\xb3\\xbc\\xec\\x82\\xac\\xec\\xa0\\x84'}
+{'https://ko.wikipedia.org/wiki/': '\\n'}
+{'https://hu.wikipedia.org/wiki/': 'Wikip\\xc3\\xa9dia, a szabad enciklop\\xc3\\xa9dia'}
+{'https://hu.wikipedia.org/wiki/': '\\n'}
+{'https://no.wikipedia.org/wiki/': 'Wikipedia, den frie encyklopedi'}
+{'https://no.wikipedia.org/wiki/': '\\n'}
+{'https://pt.wikipedia.org/wiki/': 'Wikip\\xc3\\xa9dia, a enciclop\\xc3\\xa9dia livre'}
+{'https://pt.wikipedia.org/wiki/': '\\n'}
+{'https://ro.wikipedia.org/wiki/': 'Wikipedia'}
+{'https://ro.wikipedia.org/wiki/': '\\n'}
+{'https://sr.wikipedia.org/wiki/': '\\xd0\\x92\\xd0\\xb8\\xd0\\xba\\xd0\\xb8\\xd0\\xbf\\xd0\\xb5\\xd0\\xb4\\xd0\\xb8\\xd1\\x98\\xd0\\xb0, \\xd1\\x81\\xd0\\xbb\\xd0\\xbe\\xd0\\xb1\\xd0\\xbe\\xd0\\xb4\\xd0\\xbd\\xd0\\xb0 \\xd0\\xb5\\xd0\\xbd\\xd1\\x86\\xd0\\xb8\\xd0\\xba\\xd0\\xbb\\xd0\\xbe\\xd0\\xbf\\xd0\\xb5\\xd0\\xb4\\xd0\\xb8\\xd1\\x98\\xd0\\xb0'}
+{'https://sr.wikipedia.org/wiki/': '\\n'}
+{'https://sh.wikipedia.org/wiki/': 'Wikipedia, slobodna enciklopedija'}
+{'https://sh.wikipedia.org/wiki/': '\\n'}
+{'https://fi.wikipedia.org/wiki/': 'Wikipedia, vapaa tietosanakirja'}
+{'https://fi.wikipedia.org/wiki/': '\\n'}
+{'https://tr.wikipedia.org/wiki/': 'Vikipedi: \\xc3\\x96zg\\xc3\\xbcr Ansiklopedi'}
+{'https://tr.wikipedia.org/wiki/': '\\n'}
+{'https://uk.wikipedia.org/wiki/': '\\xd0\\x92\\xd1\\x96\\xd0\\xba\\xd1\\x96\\xd0\\xbf\\xd0\\xb5\\xd0\\xb4\\xd1\\x96\\xd1\\x8f'}
+{'https://uk.wikipedia.org/wiki/': '\\n'}
+{'https://zh.wikipedia.org/wiki/': '\\xe7\\xbb\\xb4\\xe5\\x9f\\xba\\xe7\\x99\\xbe\\xe7\\xa7\\x91\\xef\\xbc\\x8c\\xe8\\x87\\xaa\\xe7\\x94\\xb1\\xe7\\x9a\\x84\\xe7\\x99\\xbe\\xe7\\xa7\\x91\\xe5\\x85\\xa8\\xe4\\xb9\\xa6'}
+{'https://zh.wikipedia.org/wiki/': '\\n'}
+{'https://bs.wikipedia.org/wiki/': 'Wikipedia'}
+{'https://bs.wikipedia.org/wiki/': '\\n'}
+{'https://bg.wikipedia.org/wiki/': '\\xd0\\xa3\\xd0\\xb8\\xd0\\xba\\xd0\\xb8\\xd0\\xbf\\xd0\\xb5\\xd0\\xb4\\xd0\\xb8\\xd1\\x8f'}
+{'https://bg.wikipedia.org/wiki/': '\\n'}
+{'https://da.wikipedia.org/wiki/': 'Wikipedia, den frie encyklop\\xc3\\xa6di'}
+{'https://da.wikipedia.org/wiki/': '\\n'}
+{'https://et.wikipedia.org/wiki/': 'Vikipeedia'}
+{'https://et.wikipedia.org/wiki/': '\\n'}
+{'https://el.wikipedia.org/wiki/': '\\xce\\x92\\xce\\xb9\\xce\\xba\\xce\\xb9\\xcf\\x80\\xce\\xb1\\xce\\xaf\\xce\\xb4\\xce\\xb5\\xce\\xb9\\xce\\xb1'}
+{'https://el.wikipedia.org/wiki/': '\\n'}
+{'https://simple.wikipedia.org/wiki/': 'Wikipedia'}
+{'https://simple.wikipedia.org/wiki/': '\\n'}
+{'https://eo.wikipedia.org/wiki/': 'Vikipedio'}
+{'https://eo.wikipedia.org/wiki/': '\\n'}
+{'https://gl.wikipedia.org/wiki/': 'Wikipedia, a enciclopedia libre'}
+{'https://gl.wikipedia.org/wiki/': '\\n'}
+{'https://he.wikipedia.org/wiki/': '\\xd7\\x95\\xd7\\x99\\xd7\\xa7\\xd7\\x99\\xd7\\xa4\\xd7\\x93\\xd7\\x99\\xd7\\x94'}
+{'https://he.wikipedia.org/wiki/': '\\n'}
+{'https://hr.wikipedia.org/wiki/': 'Wikipedija'}
+{'https://hr.wikipedia.org/wiki/': '\\n'}
+{'https://lv.wikipedia.org/wiki/': 'Vikip\\xc4\\x93dija'}
+{'https://lv.wikipedia.org/wiki/': '\\n'}
+{'https://lt.wikipedia.org/wiki/': 'Vikipedija'}
+{'https://lt.wikipedia.org/wiki/': '\\n'}
+{'https://nn.wikipedia.org/wiki/': 'Wikipedia, det frie oppslagsverket'}
+{'https://nn.wikipedia.org/wiki/': '\\n'}
+{'https://sk.wikipedia.org/wiki/': 'Wikip\\xc3\\xa9dia'}
+{'https://sk.wikipedia.org/wiki/': '\\n'}
+{'https://sl.wikipedia.org/wiki/': 'Wikipedija'}
+{'https://sl.wikipedia.org/wiki/': '\\n'}
+{'https://th.wikipedia.org/wiki/': '\\xe0\\xb8\\xa7\\xe0\\xb8\\xb4\\xe0\\xb8\\x81\\xe0\\xb8\\xb4\\xe0\\xb8\\x9e\\xe0\\xb8\\xb5\\xe0\\xb9\\x80\\xe0\\xb8\\x94\\xe0\\xb8\\xb5\\xe0\\xb8\\xa2 \\xe0\\xb8\\xaa\\xe0\\xb8\\xb2\\xe0\\xb8\\xa3\\xe0\\xb8\\xb2\\xe0\\xb8\\x99\\xe0\\xb8\\xb8\\xe0\\xb8\\x81\\xe0\\xb8\\xa3\\xe0\\xb8\\xa1\\xe0\\xb9\\x80\\xe0\\xb8\\xaa\\xe0\\xb8\\xa3\\xe0\\xb8\\xb5'}
+{'https://th.wikipedia.org/wiki/': '\\n'}
+{'https://meta.wikimedia.org/wiki/List_of_Wikipedias': 'List of Wikipedias - Meta'}
+{'https://meta.wikimedia.org/wiki/List_of_Wikipedias': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=807996266': 'Wikipedia, the free encyclopedia'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&oldid=807996266': '\\n'}
+{'https://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_December_2017': 'Category:Articles containing potentially dated statements from December 2017 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Category:Articles_containing_potentially_dated_statements_from_December_2017': '\\n'}
+{'https://en.wikipedia.org/wiki/Category:All_articles_containing_potentially_dated_statements': 'Category:All articles containing potentially dated statements - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Category:All_articles_containing_potentially_dated_statements': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:MyTalk': 'User talk:122.176.252.182 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:MyTalk': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:MyContributions': 'User contributions for 122.176.252.182 - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:MyContributions': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Main+Page': 'Create account - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Special:CreateAccount&returnto=Main+Page': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page': 'Log in - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Special:UserLogin&returnto=Main+Page': '\\n'}
+{'https://en.wikipedia.org/wiki/Talk:Main_Page': 'Talk:Main Page - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Talk:Main_Page': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&action=history': 'Main Page: Revision history - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&action=history': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Contents': 'Portal:Contents - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Contents': '\\n'}
+{'https://en.wikipedia.org/wiki/Portal:Featured_content': 'Portal:Featured content - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portal:Featured_content': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:Random': 'TONO - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:Random': '\\n'}
+{'https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en': 'Make your donation now - Donate'}
+{'https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&utm_medium=sidebar&utm_campaign=C13_en.wikipedia.org&uselang=en': '\\n'}
+{'https://shop.wikimedia.org': '\\n\\t\\tWikipedia Store  - Wikipedia t-shirts - Wikipedia merchandise - Wikipedia apparel\\n\\t'}
+{'https://shop.wikimedia.org': '\\n\\t'}
+{'https://en.wikipedia.org/wiki/Help:Contents': 'Help:Contents - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Help:Contents': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:About': 'Wikipedia:About - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:About': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:RecentChanges': 'Recent changes - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:RecentChanges': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Contact_us': 'Wikipedia:Contact us - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Contact_us': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:WhatLinksHere/Main_Page': 'Pages that link to "Main Page" - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:WhatLinksHere/Main_Page': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page': 'Related changes - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:RecentChangesLinked/Main_Page': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard': 'Wikipedia:File Upload Wizard - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:File_Upload_Wizard': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:SpecialPages': 'Special pages - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:SpecialPages': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&action=info': 'Information for "Main Page" - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&action=info': '\\n'}
+{'https://www.wikidata.org/wiki/Special:EntityPage/Q5296': 'Wikimedia main page - Wikidata'}
+{'https://www.wikidata.org/wiki/Special:EntityPage/Q5296': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Main_Page&id=807996266': 'Cite This Page - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=Main_Page&id=807996266': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Main+Page': 'Book creator - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Special:Book&bookcmd=book_creator&referer=Main+Page': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Main+Page&action=show-download-screen': 'Download as PDF - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Special:ElectronPdf&page=Main+Page&action=show-download-screen': '\\n'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&printable=yes': 'Wikipedia, the free encyclopedia'}
+{'https://en.wikipedia.org/w/index.php?title=Main_Page&printable=yes': '\\n'}
+{'https://commons.wikimedia.org/wiki/Main_Page': 'Wikimedia Commons'}
+{'https://commons.wikimedia.org/wiki/Main_Page': '\\n'}
+{'https://www.mediawiki.org/wiki/MediaWiki': 'MediaWiki'}
+{'https://www.mediawiki.org/wiki/MediaWiki': '\\n'}
+{'https://meta.wikimedia.org/wiki/Main_Page': 'Meta, a Wikimedia project coordination wiki'}
+{'https://meta.wikimedia.org/wiki/Main_Page': '\\n'}
+{'https://species.wikimedia.org/wiki/Main_Page': 'Wikispecies, free species directory'}
+{'https://species.wikimedia.org/wiki/Main_Page': '\\n'}
+{'https://en.wikibooks.org/wiki/Main_Page': 'Wikibooks'}
+{'https://en.wikibooks.org/wiki/Main_Page': '\\n'}
+{'https://www.wikidata.org/wiki/Wikidata:Main_Page': 'Wikidata'}
+{'https://www.wikidata.org/wiki/Wikidata:Main_Page': '\\n'}
+{'https://en.wikinews.org/wiki/Main_Page': 'Wikinews, the free news source'}
+{'https://en.wikinews.org/wiki/Main_Page': '\\n'}
+{'https://en.wikiquote.org/wiki/Main_Page': 'Wikiquote'}
+{'https://en.wikiquote.org/wiki/Main_Page': '\\n'}
+{'https://en.wikisource.org/wiki/Main_Page': 'Wikisource, the free library'}
+{'https://en.wikisource.org/wiki/Main_Page': '\\n'}
+{'https://en.wikiversity.org/wiki/Wikiversity:Main_Page': 'Wikiversity'}
+{'https://en.wikiversity.org/wiki/Wikiversity:Main_Page': '\\n'}
+{'https://en.wikivoyage.org/wiki/Main_Page': 'Wikivoyage \\xe2\\x80\\x93 The FREE worldwide travel guide that anyone can edit'}
+{'https://en.wikivoyage.org/wiki/Main_Page': '\\n'}
+{'https://en.wiktionary.org/wiki/Wiktionary:Main_Page': 'Wiktionary, the free dictionary'}
+{'https://en.wiktionary.org/wiki/Wiktionary:Main_Page': '\\n'}
+{'https://ka.wikipedia.org/wiki/': '\\xe1\\x83\\x95\\xe1\\x83\\x98\\xe1\\x83\\x99\\xe1\\x83\\x98\\xe1\\x83\\x9e\\xe1\\x83\\x94\\xe1\\x83\\x93\\xe1\\x83\\x98\\xe1\\x83\\x90, \\xe1\\x83\\x97\\xe1\\x83\\x90\\xe1\\x83\\x95\\xe1\\x83\\x98\\xe1\\x83\\xa1\\xe1\\x83\\xa3\\xe1\\x83\\xa4\\xe1\\x83\\x90\\xe1\\x83\\x9a\\xe1\\x83\\x98 \\xe1\\x83\\x94\\xe1\\x83\\x9c\\xe1\\x83\\xaa\\xe1\\x83\\x98\\xe1\\x83\\x99\\xe1\\x83\\x9a\\xe1\\x83\\x9d\\xe1\\x83\\x9e\\xe1\\x83\\x94\\xe1\\x83\\x93\\xe1\\x83\\x98\\xe1\\x83\\x90'}
+{'https://ka.wikipedia.org/wiki/': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License': 'Wikipedia:Text of Creative Commons Attribution-ShareAlike 3.0 Unported License - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License': '\\n'}
+{'https://wikimediafoundation.org/wiki/Terms_of_Use': 'Terms of Use - Wikimedia Foundation'}
+{'https://wikimediafoundation.org/wiki/Terms_of_Use': '\\n'}
+{'https://wikimediafoundation.org/wiki/Privacy_policy': 'Privacy policy - Wikimedia Foundation'}
+{'https://wikimediafoundation.org/wiki/Privacy_policy': '\\n'}
+{'https://www.wikimediafoundation.org/': 'Wikimedia Foundation'}
+{'https://www.wikimediafoundation.org/': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer': 'Wikipedia:General disclaimer - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:General_disclaimer': '\\n'}
+{'https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute': 'How to contribute - MediaWiki'}
+{'https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute': '\\n'}
+{'https://wikimediafoundation.org/wiki/Cookie_statement': 'Cookie statement - Wikimedia Foundation'}
+{'https://wikimediafoundation.org/wiki/Cookie_statement': '\\n'}
+{'https://en.m.wikipedia.org/w/index.php?title=Main_Page&mobileaction=toggle_view_mobile': 'Wikipedia, the free encyclopedia'}
+{'https://en.m.wikipedia.org/w/index.php?title=Main_Page&mobileaction=toggle_view_mobile': '\\n'}
+{'https://wikimediafoundation.org/': 'Wikimedia Foundation'}
+{'https://wikimediafoundation.org/': '\\n'}
+{'https://www.mediawiki.org/': 'MediaWiki'}
+{'https://www.mediawiki.org/': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi': 'Wikipedia:Protection policy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Protection_policy#semi': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia_(disambiguation)': 'Wikipedia (disambiguation) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia_(disambiguation)': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_encyclopedias': 'Lists of encyclopedias - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_encyclopedias': '\\n'}
+{'https://en.wikipedia.org/wiki/File:Wikipedia-logo-v2.svg': 'File:Wikipedia-logo-v2.svg - Wikipedia'}
+{'https://en.wikipedia.org/wiki/File:Wikipedia-logo-v2.svg': '\\n'}
+{'https://en.wikipedia.org/wiki/File:Wikipedia_wordmark.svg': 'File:Wikipedia wordmark.svg - Wikipedia'}
+{'https://en.wikipedia.org/wiki/File:Wikipedia_wordmark.svg': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia_logo': 'Wikipedia logo - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia_logo': '\\n'}
+{'https://en.wikipedia.org/wiki/Glyph': 'Glyph - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Glyph': '\\n'}
+{'https://en.wikipedia.org/wiki/Writing_system': 'Writing system - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Writing_system': '\\n'}
+{'https://en.wikipedia.org/wiki/Online_encyclopedia': 'Online encyclopedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Online_encyclopedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Jimmy_Wales': 'Jimmy Wales - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Jimmy_Wales': '\\n'}
+{'https://en.wikipedia.org/wiki/Larry_Sanger': 'Larry Sanger - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Larry_Sanger': '\\n'}
+{'https://en.wikipedia.org/wiki/Slogan': 'Slogan - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Slogan': '\\n'}
+{'https://www.wikipedia.org': 'Wikipedia'}
+{'https://www.wikipedia.org': '\\n'}
+{'https://en.wikipedia.org/wiki/Alexa_Internet': 'Alexa Internet - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Alexa_Internet': '\\n'}
+{'http://www.alexa.com/siteinfo/wikipedia.org': 'Wikipedia.org Traffic, Demographics and Competitors - Alexa'}
+{'https://en.wikipedia.org/w/index.php?title=Wikipedia&action=edit': 'View source for Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/w/index.php?title=Wikipedia&action=edit': '\\n'}
+{'https://en.wikipedia.org/wiki/Registered_user': 'Registered user - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Registered_user': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_Wikipedias#Grand_total': 'List of Wikipedias - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_Wikipedias#Grand_total': '\\n'}
+{'https://en.wikipedia.org/wiki/Creative_Commons_licenses': 'Creative Commons license - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Creative_Commons_licenses': '\\n'}
+{'https://en.wikipedia.org/wiki/GFDL': 'GNU Free Documentation License - Wikipedia'}
+{'https://en.wikipedia.org/wiki/GFDL': '\\n'}
+{'https://en.wikipedia.org/wiki/LAMP_(software_bundle)': 'LAMP (software bundle) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/LAMP_(software_bundle)': '\\n'}
+{'https://en.wikipedia.org/wiki/OCLC': 'OCLC - Wikipedia'}
+{'https://en.wikipedia.org/wiki/OCLC': '\\n'}
+{'https://www.worldcat.org/oclc/52075003': 'Wikipedia : the free encyclopedia. (Internet resource, 2001) [WorldCat.org]'}
+{'https://www.worldcat.org/oclc/52075003': '\\n        '}
+{'https://en.wikipedia.org/wiki/Help:IPA/English': 'Help:IPA/English - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Help:IPA/English': '\\n'}
+{'https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key': 'Help:Pronunciation respelling key - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key': '\\n'}
+{'https://en.wikipedia.org/wiki/Reference_work': 'Reference work - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Reference_work': '\\n'}
+{'https://en.wiktionary.org/wiki/Wikipedia': 'Wikipedia - Wiktionary'}
+{'https://en.wiktionary.org/wiki/Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Portmanteau': 'Portmanteau - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portmanteau': '\\n'}
+{'https://en.wikipedia.org/wiki/Wiki': 'Wiki - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wiki': '\\n'}
+{'https://en.wikipedia.org/wiki/English_Wikipedia': 'English Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/English_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Good_articles': 'Wikipedia:Good articles - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Good_articles': '\\n'}
+{'https://en.wikipedia.org/wiki/Nature_(journal)': 'Nature (journal) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Nature_(journal)': '\\n'}
+{'https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica': 'Encyclop\\xc3\\xa6dia Britannica - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica': '\\n'}
+{'https://en.wikipedia.org/wiki/Time_(magazine)': 'Time (magazine) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Time_(magazine)': '\\n'}
+{'https://en.wikipedia.org/wiki/Criticism_of_Wikipedia': 'Criticism of Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Criticism_of_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Criticism_of_Wikipedia#Systemic_bias_in_coverage': 'Criticism of Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Criticism_of_Wikipedia#Systemic_bias_in_coverage': '\\n'}
+{'https://en.wikipedia.org/wiki/Spin_(propaganda)': 'Spin (propaganda) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Spin_(propaganda)': '\\n'}
+{'https://en.wikipedia.org/wiki/History_of_Wikipedia': 'History of Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/History_of_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Nupedia': 'Nupedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Nupedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Bomis': 'Bomis - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Bomis': '\\n'}
+{'https://en.wikipedia.org/wiki/Web_portal': 'Web portal - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Web_portal': '\\n'}
+{'https://en.wikipedia.org/wiki/Editing': 'Editing - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Editing': '\\n'}
+{'https://en.wikipedia.org/wiki/Open_Content': 'Open content - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Open_Content': '\\n'}
+{'https://en.wikipedia.org/wiki/GNU_Free_Documentation_License': 'GNU Free Documentation License - Wikipedia'}
+{'https://en.wikipedia.org/wiki/GNU_Free_Documentation_License': '\\n'}
+{'https://en.wikipedia.org/wiki/Richard_Stallman': 'Richard Stallman - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Richard_Stallman': '\\n'}
+{'https://en.wikipedia.org/wiki/Electronic_mailing_list': 'Electronic mailing list - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Electronic_mailing_list': '\\n'}
+{'http://www.cbc.ca/ideas/episodes/2014/01/15/the-great-book-of-knowledge-part-1/': 'Home | Ideas with Paul Kennedy | CBC Radio'}
+{'http://www.cbc.ca/ideas/episodes/2014/01/15/the-great-book-of-knowledge-part-1/': '\\n\\n'}
+{'https://en.wikipedia.org/wiki/Paul_Kennedy_(host)': 'Paul Kennedy (host) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Paul_Kennedy_(host)': '\\n'}
+{'https://en.wikipedia.org/wiki/Canadian_Broadcasting_Corporation': 'Canadian Broadcasting Corporation - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Canadian_Broadcasting_Corporation': '\\n'}
+{'https://en.wikipedia.org/wiki/Slashdot': 'Slashdot - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Slashdot': '\\n'}
+{'https://en.wikipedia.org/wiki/Web_search_engine': 'Web search engine - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Web_search_engine': '\\n'}
+{'https://en.wikipedia.org/wiki/Yongle_Encyclopedia': 'Yongle Encyclopedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Yongle_Encyclopedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Spanish_Wikipedia': 'Spanish Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Spanish_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Fork_(software_development)': 'Fork (software development) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Fork_(software_development)': '\\n'}
+{'https://en.wikipedia.org/wiki/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol': 'Enciclopedia Libre Universal en Espa\\xc3\\xb1ol - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Enciclopedia_Libre_Universal_en_Espa%C3%B1ol': '\\n'}
+{'https://en.wikipedia.org/wiki/Palo_Alto_Research_Center': 'PARC (company) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Palo_Alto_Research_Center': '\\n'}
+{'https://en.wiktionary.org/wiki/low-hanging_fruit': 'low-hanging fruit - Wiktionary'}
+{'https://en.wiktionary.org/wiki/low-hanging_fruit': '\\n'}
+{'https://en.wikipedia.org/wiki/Rey_Juan_Carlos_University': 'King Juan Carlos University - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Rey_Juan_Carlos_University': '\\n'}
+{'https://en.wikipedia.org/wiki/Madrid': 'Madrid - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Madrid': '\\n'}
+{'https://en.wikipedia.org/wiki/Spain': 'Spain - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Spain': '\\n'}
+{'https://en.wikipedia.org/wiki/Technology_Review': 'MIT Technology Review - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Technology_Review': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Atlantic': 'The Atlantic - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Atlantic': '\\n'}
+{'https://en.wikipedia.org/wiki/New_York_(magazine)': 'New York (magazine) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/New_York_(magazine)': '\\n'}
+{'https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act': 'Stop Online Piracy Act - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Stop_Online_Piracy_Act': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_most_popular_websites': 'List of most popular websites - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_most_popular_websites': '\\n'}
+{'https://en.wikipedia.org/wiki/ComScore': 'comScore - Wikipedia'}
+{'https://en.wikipedia.org/wiki/ComScore': '\\n'}
+{'https://en.wikipedia.org/wiki/The_New_York_Times': 'The New York Times - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_New_York_Times': '\\n'}
+{'https://en.wikipedia.org/wiki/Apple_Inc.': 'Apple Inc. - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Apple_Inc.': '\\n'}
+{'https://en.wikipedia.org/wiki/Page_view': 'Page view - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Page_view': '\\n'}
+{'https://en.wikipedia.org/wiki/Unique_visitor': 'Unique user - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Unique_visitor': '\\n'}
+{'https://en.wikipedia.org/wiki/PROTECT_IP_Act': 'PROTECT IP Act - Wikipedia'}
+{'https://en.wikipedia.org/wiki/PROTECT_IP_Act': '\\n'}
+{'https://en.wikipedia.org/wiki/2012_Wikipedia_blackout': 'Protests against SOPA and PIPA - Wikipedia'}
+{'https://en.wikipedia.org/wiki/2012_Wikipedia_blackout': '\\n'}
+{'https://en.wikipedia.org/wiki/Stigmergy': 'Stigmergy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Stigmergy': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Economic_Times': 'The Economic Times - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Economic_Times': '\\n'}
+{'https://en.wikipedia.org/wiki/Knowledge_Graph': 'Knowledge Graph - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Knowledge_Graph': '\\n'}
+{'https://en.wikipedia.org/wiki/Clay_Shirky': 'Clay Shirky - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Clay_Shirky': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Avoid_weasel_words': 'Wikipedia:Manual of Style/Words to watch - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Avoid_weasel_words': '\\n'}
+{'https://en.wikipedia.org/wiki/Procrastination': 'Procrastination - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Procrastination': '\\n'}
+{'https://en.wikipedia.org/wiki/Help:Semi-protection': 'Wikipedia:Protection policy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Help:Semi-protection': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:ECP': 'Wikipedia:Protection policy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:ECP': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Autoconfirmed': 'Wikipedia:User access levels - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Autoconfirmed': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:XCON': 'Wikipedia:User access levels - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:XCON': '\\n'}
+{'https://en.wikipedia.org/wiki/Administrators_(Wikipedia)': 'Wikipedia administrators - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Administrators_(Wikipedia)': '\\n'}
+{'https://en.wikipedia.org/wiki/German_Wikipedia': 'German Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/German_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Help:Recent_changes': 'Help:Recent changes - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Help:Recent_changes': '\\n'}
+{'https://en.wikipedia.org/wiki/Recent_changes': 'Wiki - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Recent_changes': '\\n'}
+{'https://en.wikipedia.org/wiki/Transaction_cost': 'Transaction cost - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Transaction_cost': '\\n'}
+{'https://en.wikipedia.org/wiki/Vandalism_on_Wikipedia': 'Vandalism on Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Vandalism_on_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/John_Seigenthaler': 'John Seigenthaler - Wikipedia'}
+{'https://en.wikipedia.org/wiki/John_Seigenthaler': '\\n'}
+{'https://en.wikipedia.org/wiki/Seigenthaler_incident': 'Wikipedia Seigenthaler biography incident - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Seigenthaler_incident': '\\n'}
+{'https://en.wikipedia.org/wiki/Seigenthaler_biography_incident': 'Wikipedia Seigenthaler biography incident - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Seigenthaler_biography_incident': '\\n'}
+{'https://en.wikipedia.org/wiki/USA_Today': 'USA Today - Wikipedia'}
+{'https://en.wikipedia.org/wiki/USA_Today': '\\n'}
+{'https://en.wikipedia.org/wiki/Freedom_Forum': 'Freedom Forum - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Freedom_Forum': '\\n'}
+{'https://en.wikipedia.org/wiki/First_Amendment_Center': 'First Amendment Center - Wikipedia'}
+{'https://en.wikipedia.org/wiki/First_Amendment_Center': '\\n'}
+{'https://en.wikipedia.org/wiki/Vanderbilt_University': 'Vanderbilt University - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Vanderbilt_University': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons': 'Wikipedia:Biographies of living persons - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Biographies_of_living_persons': '\\n'}
+{'http://www.cbsnews.com/news/wikipedia-jimmy-wales-morley-safer-60-minutes/': 'Wikipedia cofounder Jimmy Wales on 60 Minutes - CBS News'}
+{'https://en.wikipedia.org/wiki/60_Minutes': '60 Minutes - Wikipedia'}
+{'https://en.wikipedia.org/wiki/60_Minutes': '\\n'}
+{'https://en.wikipedia.org/wiki/CBS': 'CBS - Wikipedia'}
+{'https://en.wikipedia.org/wiki/CBS': '\\n'}
+{'https://en.wikipedia.org/wiki/Copyright': 'Copyright - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Copyright': '\\n'}
+{'https://en.wikipedia.org/wiki/Virginia': 'Virginia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Virginia': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Five_pillars': 'Wikipedia:Five pillars - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Five_pillars': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:List_of_policies_and_guidelines': 'Wikipedia:List of policies and guidelines - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:List_of_policies_and_guidelines': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Enforcement': 'Wikipedia:Policies and guidelines - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Enforcement': '\\n'}
+{'https://en.wiktionary.org/wiki/encyclopedic': 'encyclopedic - Wiktionary'}
+{'https://en.wiktionary.org/wiki/encyclopedic': '\\n'}
+{'https://en.wikipedia.org/wiki/Notability_in_the_English_Wikipedia': 'Notability in the English Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Notability_in_the_English_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:No_original_research': 'Wikipedia:No original research - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:No_original_research': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources': 'Wikipedia:Identifying reliable sources - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Identifying_reliable_sources': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Administration': 'Wikipedia:Administration - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Administration': '\\n'}
+{'https://en.wikipedia.org/wiki/Anarchy': 'Anarchy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Anarchy': '\\n'}
+{'https://en.wikipedia.org/wiki/Democracy': 'Democracy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Democracy': '\\n'}
+{'https://en.wikipedia.org/wiki/Tragedy_of_the_commons': 'Tragedy of the commons - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Tragedy_of_the_commons': '\\n'}
+{'https://en.wikipedia.org/wiki/Flow_(psychology)': 'Flow (psychology) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Flow_(psychology)': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:EW': 'Wikipedia:Edit warring - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:EW': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Third_opinion': 'Wikipedia:Third opinion - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Third_opinion': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:RfC': 'Wikipedia:Requests for comment - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:RfC': '\\n'}
+{'https://en.wikipedia.org/wiki/Arbitration_Committee': 'Arbitration Committee of the English Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Arbitration_Committee': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view': 'Wikipedia:Neutral point of view - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Neutral_point_of_view': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Probation': 'Wikipedia:Editing restrictions - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Probation': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:BAN': 'Wikipedia:Banning policy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:BAN': '\\n'}
+{'https://en.wikipedia.org/wiki/Anti-social_behavior': 'Anti-social behaviour - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Anti-social_behavior': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia_community': 'Wikipedia community - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia_community': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikimania#2005': 'Wikimania - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikimania#2005': '\\n'}
+{'https://en.wikipedia.org/wiki/Frankfurt_am_Main': 'Frankfurt - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Frankfurt_am_Main': '\\n'}
+{'https://en.wikipedia.org/wiki/Germany': 'Germany - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Germany': '\\n'}
+{'https://en.wikipedia.org/wiki/British_Museum': 'British Museum - Wikipedia'}
+{'https://en.wikipedia.org/wiki/British_Museum': '\\n'}
+{'https://en.wikipedia.org/wiki/Hoxne_Hoard': 'Hoxne Hoard - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Hoxne_Hoard': '\\n'}
+{'https://en.wikipedia.org/wiki/Cult': 'Cult - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Cult': '\\n'}
+{'https://en.wikipedia.org/wiki/Credential': 'Credential - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Credential': '\\n'}
+{'https://en.wikipedia.org/wiki/Anti-elitism': 'Elitism - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Anti-elitism': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Barnstars': 'Wikipedia:Barnstars - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Barnstars': '\\n'}
+{'https://en.wikipedia.org/wiki/Aaron_Swartz': 'Aaron Swartz - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Aaron_Swartz': '\\n'}
+{'https://en.wikipedia.org/wiki/Special:ActiveUsers': 'Active users list - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Special:ActiveUsers': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:SIG': 'Wikipedia:Signatures - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:SIG': '\\n'}
+{'https://en.wikipedia.org/wiki/IP_addresses': 'IP address - Wikipedia'}
+{'https://en.wikipedia.org/wiki/IP_addresses': '\\n'}
+{'https://en.wikipedia.org/wiki/Dartmouth_College': 'Dartmouth College - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Dartmouth_College': '\\n'}
+{'https://en.wikipedia.org/wiki/Business_Insider': 'Business Insider - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Business_Insider': '\\n'}
+{'https://en.wikipedia.org/wiki/Henry_Blodget': 'Henry Blodget - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Henry_Blodget': '\\n'}
+{'https://en.wikipedia.org/wiki/File:WMF_Strategic_Plan_Survey.svg': 'File:WMF Strategic Plan Survey.svg - Wikipedia'}
+{'https://en.wikipedia.org/wiki/File:WMF_Strategic_Plan_Survey.svg': '\\n'}
+{'https://en.wikipedia.org/wiki/University_of_Minnesota': 'University of Minnesota - Wikipedia'}
+{'https://en.wikipedia.org/wiki/University_of_Minnesota': '\\n'}
+{'https://en.wikipedia.org/wiki/New_York_Times': 'The New York Times - Wikipedia'}
+{'https://en.wikipedia.org/wiki/New_York_Times': '\\n'}
+{'https://en.wikipedia.org/wiki/Sue_Gardner': 'Sue Gardner - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Sue_Gardner': '\\n'}
+{'https://en.wikipedia.org/wiki/Edit-a-thon': 'Edit-a-thon - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Edit-a-thon': '\\n'}
+{'https://en.wikipedia.org/wiki/Bloomberg_News': 'Bloomberg News - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Bloomberg_News': '\\n'}
+{'https://en.wikipedia.org/wiki/List_of_Wikipedias': 'List of Wikipedias - Wikipedia'}
+{'https://en.wikipedia.org/wiki/List_of_Wikipedias': '\\n'}
+{'https://en.wikipedia.org/wiki/Cebuano_Wikipedia': 'List of Wikipedias - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Cebuano_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Swedish_Wikipedia': 'Swedish Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Swedish_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Dutch_Wikipedia': 'Dutch Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Dutch_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/French_Wikipedia': 'French Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/French_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Russian_Wikipedia': 'Russian Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Russian_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Italian_Wikipedia': 'Italian Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Italian_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Waray-Waray_Wikipedia': 'Waray Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Waray-Waray_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Polish_Wikipedia': 'Polish Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Polish_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Vietnamese_Wikipedia': 'Vietnamese Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Vietnamese_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Japanese_Wikipedia': 'Japanese Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Japanese_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Portuguese_Wikipedia': 'Portuguese Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Portuguese_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Chinese_Wikipedia': 'Chinese Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Chinese_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Ukrainian_Wikipedia': 'Ukrainian Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Ukrainian_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Persian_Wikipedia': 'Persian Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Persian_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Catalan_Wikipedia': 'Catalan Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Catalan_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Arabic_Wikipedia': 'Arabic Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Arabic_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Subdomain': 'Subdomain - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Subdomain': '\\n'}
+{'https://en.wikipedia.org/wiki/Waray_Wikipedia': 'Waray Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Waray_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Norwegian_Wikipedia': 'Norwegian Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Norwegian_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Turkish_Wikipedia': 'Turkish Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Turkish_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/2017_block_of_Wikipedia_in_Turkey': '2017 block of Wikipedia in Turkey - Wikipedia'}
+{'https://en.wikipedia.org/wiki/2017_block_of_Wikipedia_in_Turkey': '\\n'}
+{'https://en.wikipedia.org/wiki/World_Wide_Web': 'World Wide Web - Wikipedia'}
+{'https://en.wikipedia.org/wiki/World_Wide_Web': '\\n'}
+{'https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences': 'American and British English spelling differences - Wikipedia'}
+{'https://en.wikipedia.org/wiki/American_and_British_English_spelling_differences': '\\n'}
+{'https://en.wikipedia.org/wiki/Color': 'Color - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Color': '\\n'}
+{'https://en.wikipedia.org/wiki/Fair_use': 'Fair use - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Fair_use': '\\n'}
+{'https://en.wikipedia.org/wiki/File:User_-_demography.svg': 'File:User - demography.svg - Wikipedia'}
+{'https://en.wikipedia.org/wiki/File:User_-_demography.svg': '\\n'}
+{'https://en.wikipedia.org/wiki/Interwiki_links': 'Interwiki links - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Interwiki_links': '\\n'}
+{'https://en.wikipedia.org/wiki/PLoS_ONE': 'PLOS One - Wikipedia'}
+{'https://en.wikipedia.org/wiki/PLoS_ONE': '\\n'}
+{'https://en.wikipedia.org/wiki/North_America': 'North America - Wikipedia'}
+{'https://en.wikipedia.org/wiki/North_America': '\\n'}
+{'https://en.wikipedia.org/wiki/Simple_English_Wikipedia': 'Simple English Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Simple_English_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Economist': 'The Economist - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Economist': '\\n'}
+{'https://en.wikipedia.org/wiki/Academic_studies_about_Wikipedia': 'Academic studies about Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Academic_studies_about_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Criticism_of_Wikipedia#Excessive_regulation': 'Criticism of Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Criticism_of_Wikipedia#Excessive_regulation': '\\n'}
+{'https://en.wikipedia.org/wiki/Systemic_bias': 'Systemic bias - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Systemic_bias': '\\n'}
+{'https://en.wikipedia.org/wiki/Edwin_Black': 'Edwin Black - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Edwin_Black': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Chronicle_of_Higher_Education': 'The Chronicle of Higher Education - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Chronicle_of_Higher_Education': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Journal_of_Academic_Librarianship': 'The Journal of Academic Librarianship - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Journal_of_Academic_Librarianship': '\\n'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Undue': 'Wikipedia:Neutral point of view - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Wikipedia:Undue': '\\n'}
+{'https://en.wikipedia.org/wiki/Oliver_Kamm': 'Oliver Kamm - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Oliver_Kamm': '\\n'}
+{'https://en.wikipedia.org/wiki/Education_Next': 'Hoover Institution - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Education_Next': '\\n'}
+{'https://en.wikipedia.org/wiki/Spin_(public_relations)': 'Spin (propaganda) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Spin_(public_relations)': '\\n'}
+{'https://en.wikipedia.org/wiki/Plagiarism': 'Plagiarism - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Plagiarism': '\\n'}
+{'https://en.wikipedia.org/wiki/Reliability_of_Wikipedia': 'Reliability of Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Reliability_of_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Confidence_interval': 'Confidence interval - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Confidence_interval': '\\n'}
+{'https://en.wikipedia.org/wiki/Accountability': 'Accountability - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Accountability': '\\n'}
+{'https://en.wikipedia.org/wiki/Tyler_Cowen': 'Tyler Cowen - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Tyler_Cowen': '\\n'}
+{'https://en.wikipedia.org/wiki/Utility': 'Utility - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Utility': '\\n'}
+{'http://www.dw.de/inside-wikipedia-attack-of-the-pr-industry/av-17745881': 'Inside Wikipedia - Attack of the PR Industry | All media content | DW | 30.06.2014'}
+{'http://www.dw.de/inside-wikipedia-attack-of-the-pr-industry/av-17745881': '\\r\\n\\r\\n'}
+{'https://en.wikipedia.org/wiki/Deutsche_Welle': 'Deutsche Welle - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Deutsche_Welle': '\\n'}
+{'https://en.wikipedia.org/wiki/Troll_(Internet)': 'Internet troll - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Troll_(Internet)': '\\n'}
+{'https://en.wikipedia.org/wiki/Spam_(electronic)': 'Spamming - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Spam_(electronic)': '\\n'}
+{'https://en.wikipedia.org/wiki/Conflict-of-interest_editing_on_Wikipedia': 'Conflict-of-interest editing on Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Conflict-of-interest_editing_on_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Katherine_Maher': 'Katherine Maher - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Katherine_Maher': '\\n'}
+{'https://en.wikipedia.org/wiki/Stephen_Colbert': 'Stephen Colbert - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Stephen_Colbert': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Colbert_Report': 'The Colbert Report - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Colbert_Report': '\\n'}
+{'https://en.wikipedia.org/wiki/Lecturer': 'Lecturer - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Lecturer': '\\n'}
+{'https://en.wikipedia.org/wiki/Academia': 'Academy - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Academia': '\\n'}
+{'https://en.wikipedia.org/wiki/Primary_source': 'Primary source - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Primary_source': '\\n'}
+{'https://en.wikipedia.org/wiki/Email': 'Email - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Email': '\\n'}
+{'https://en.wikipedia.org/wiki/The_Harvard_Crimson': 'The Harvard Crimson - Wikipedia'}
+{'https://en.wikipedia.org/wiki/The_Harvard_Crimson': '\\n'}
+{'https://en.wikipedia.org/wiki/Harvard_University': 'Harvard University - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Harvard_University': '\\n'}
+{'https://en.wikipedia.org/wiki/Syllabus': 'Syllabus - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Syllabus': '\\n'}
+{'https://en.wikipedia.org/wiki/American_Library_Association': 'American Library Association - Wikipedia'}
+{'https://en.wikipedia.org/wiki/American_Library_Association': '\\n'}
+{'https://en.wikipedia.org/wiki/Michael_Gorman_(librarian)': 'Michael Gorman (librarian) - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Michael_Gorman_(librarian)': '\\n'}
+{'https://en.wikipedia.org/wiki/Google': 'Google - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Google': '\\n'}
+{'https://en.wikipedia.org/wiki/Health_information_on_Wikipedia': 'Health information on Wikipedia - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Health_information_on_Wikipedia': '\\n'}
+{'https://en.wikipedia.org/wiki/Amin_Azzam': 'Amin Azzam - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Amin_Azzam': '\\n'}
+{'https://en.wikipedia.org/wiki/James_Heilman': 'James Heilman - Wikipedia'}
+{'https://en.wikipedia.org/wiki/James_Heilman': '\\n'}
+{'https://en.wikipedia.org/wiki/Carnegie_Mellon_University': 'Carnegie Mellon University - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Carnegie_Mellon_University': '\\n'}
+{'https://en.wikipedia.org/wiki/Roy_Rosenzweig': 'Roy Rosenzweig - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Roy_Rosenzweig': '\\n'}
+{'https://en.wikipedia.org/wiki/Abraham_Lincoln': 'Abraham Lincoln - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Abraham_Lincoln': '\\n'}
+{'https://en.wikipedia.org/wiki/American_Civil_War': 'American Civil War - Wikipedia'}
+{'https://en.wikipedia.org/wiki/American_Civil_War': '\\n'}
+{'https://en.wikipedia.org/wiki/James_M._McPherson': 'James M. McPherson - Wikipedia'}
+{'https://en.wikipedia.org/wiki/James_M._McPherson': '\\n'}
+{'https://en.wikipedia.org/wiki/William_Clarke_Quantrill': 'William Quantrill - Wikipedia'}
+{'https://en.wikipedia.org/wiki/William_Clarke_Quantrill': '\\n'}
+{'https://en.wikipedia.org/wiki/Cancer': 'Cancer - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Cancer': '\\n'}
+{'https://en.wikipedia.org/wiki/Thomas_Jefferson_University': 'Thomas Jefferson University - Wikipedia'}
+{'https://en.wikipedia.org/wiki/Thomas_Jefferson_University': '\\n'}
+}
+}
+

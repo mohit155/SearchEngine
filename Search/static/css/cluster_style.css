@@ -1,0 +1,90 @@
+.material-icons.md-36 { font-size: 36px; }
+@font-face { font-family: opensans; src: url('../Search/OpenSans-Semibold.ttf'); }
+
+*{
+    font-family: opensans;
+}
+
+#cluster_div_nav{
+    background-color: #FFC107;
+    width: 100%;
+    font-size: 24px;
+    vertical-align: middle;
+    padding: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+#page_title{
+    display: inline-block;
+    padding: 0px;
+    line-height: 1em;
+    margin: 0px auto;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+#back_icon{
+    float: left;
+    background: #0000;
+    border: 0px;
+    border-radius: 2px;
+}
+
+#back_icon:hover{
+    background-color: #FFA000;
+}
+
+.cluster_pages{
+    float: right;
+}
+
+#cluster_area{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+
+.card{
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  margin: 5px;
+  position: relative;
+}
+
+.card1{
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  padding: 0px;
+}
+
+.card1:hover{
+  box-shadow: 1px 5px 8px rgba(0,0,0,.18), 1px 5px 8px rgba(0,0,0,0.18);
+}
+
+.card2{
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+
+.cluster_title{
+    background: #FFC107;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.pages{
+    background-color: #FFA000;
+    padding: 4px;
+    border-radius 2px;
+}
+
+.cluster_urls{
+    padding: 10px;
+}
+.cluster_url{
+    word-wrap: break-word;
+}
+
+.cluster_url_a{
+    color: #0D47A1;
+}
